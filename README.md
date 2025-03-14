@@ -4,6 +4,7 @@ Hi, I'm **Murad Aghazada** 👋
 🛠 Passionate about **backend development** and **software engineering**  
 🚀 Currently improving my skills in **Java, Spring Boot, and Flutter**  
 🔍 Interested in **cybersecurity, algorithms, and AI**  
+📫 You can reach me from my mail address muradagazade@icloud.com
 
 ---
 
