@@ -24,4 +24,4 @@ Hi, I'm **Murad Aghazada** 👋
 ---
 
 ## 📜 My Resume  
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](your_resume_link_here)  
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Murad_Aghazad_Cv.pdf)  
